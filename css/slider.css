@@ -89,7 +89,7 @@ section{
             align-items: center;
             opacity: 0;
             transform: translateX(100%);
-            transition: all 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+            transition: all 0.8s cubic-bezier(0.68, 0.95, 0.65, 1.55);
             padding: 1rem;
         }
 
